@@ -1,2 +1,5 @@
 # hello-world
-creat a new repository
+
+Hi Humans
+
+Study step1
